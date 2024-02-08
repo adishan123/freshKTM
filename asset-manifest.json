@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freshKTM/static/css/main.9ee49590.css",
+    "main.js": "/freshKTM/static/js/main.e471510e.js",
+    "index.html": "/freshKTM/index.html",
+    "main.9ee49590.css.map": "/freshKTM/static/css/main.9ee49590.css.map",
+    "main.e471510e.js.map": "/freshKTM/static/js/main.e471510e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee49590.css",
+    "static/js/main.e471510e.js"
+  ]
+}
